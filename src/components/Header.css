@@ -1,0 +1,12 @@
+.header{
+    background-color: cornflowerblue;
+    padding: 1em;
+    color: white;
+    display:flex;
+    justify-content: center;
+}
+
+.headerTitle{
+    width: 74%;
+    text-align: left;
+}

@@ -1,0 +1,11 @@
+.search{
+    width: 70%;
+    padding: 0.8em;
+    border-radius: 0.3em;
+    border: 0.13em solid rgba(44, 42, 42, 0.404);
+}
+
+.search:focus {
+   outline-color: cornflowerblue;
+    
+}
