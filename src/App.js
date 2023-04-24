@@ -6,7 +6,7 @@ import { MainContent } from './components/MainContent';
 
 function App() {
   const [searchedGiphy, setSearchedGiphy] = useState("");
-  const [gifs, setGifs] = useState([]);
+  const gifs = useState([]);
 
   const handleSearch = (searchTerm) => {
     setSearchedGiphy(searchTerm);
