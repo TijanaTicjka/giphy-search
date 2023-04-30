@@ -2,6 +2,8 @@
 
 ![Screenshot of a landing page](./giphy-searcher.png)
 
+## Description
+
 Giphy Searcher is a web application built with React and CSS that allows users to search for and browse GIFs from the Giphy API. The landing page displays random GIFs, while the search feature allows users to enter a search term and receive up to 25 relevant results. The application also features a responsive design for optimal viewing on different devices.
 
 This project is deployed on Netlify and can be accessed at the following URL:
